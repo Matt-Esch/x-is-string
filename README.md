@@ -43,4 +43,4 @@ isString(undefined)
 
  - Matt-Esch
 
-## MIT Licenced
+## MIT Licensed
